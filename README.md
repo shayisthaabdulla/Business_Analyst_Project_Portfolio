@@ -8,10 +8,11 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 
 ## Projects
 
-- [Agent Termination Workflow Automation](https://github.com/shayisthaabdulla/crm_agent_termination_workflow/blob/main/README.md)
+- [Agent Termination Workflow Automation](https://github.com/shayisthaabdulla/crm_agent_termination_workflow)
   Automated closure of Dynamics 365 CRM entities and enhanced communication with the Media team for agent termination
+- [Automated Report Card Generation Using Multi-Source Integration](https://github.com/shayisthaabdulla/CRM_Automated_Report_Card_Generation) 
+Automated field-level report card generation in Dynamics 365 CRM by integrating data from CRM, Reviews, and TSEE. Eliminated 40 minutes of manual work per report and boosted accuracy using custom-built AI tools.  
 
--
 -
 -
 -
