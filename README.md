@@ -33,6 +33,11 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 📌 [Property Management Platform Upgrade](https://github.com/shayisthaabdulla/Property_Management_Platform_Update)
   Led enhancements for renter onboarding, rent payments, and maintenance tracking. Optimized workflows and automated processes using Agile practices to improve operational efficiency.
 
+📌 [Income & Expense Tracking Module](https://github.com/shayisthaabdulla/Income_Expenses_Tracking/blob/main/README.md)
+  Designed and implemented a custom module to streamline financial tracking and reporting for property managers, improving accuracy and visibility.
+
+
+
 ## 🛠️ Tools & Technologies
 
 - **CRM Platforms:** Microsoft Dynamics 365 CRM
