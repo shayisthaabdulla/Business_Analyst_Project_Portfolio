@@ -42,7 +42,8 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 📌 [Dynamics 365 Sales Process Automation](https://github.com/shayisthaabdulla/Dynamics365_Sales_Process_Automation/blob/main/README.md)
 Automated B2B sales workflows in Dynamics 365—order creation, renewals, onboarding emails, and data validations—to improve accuracy and reduce manual tasks.
 
-
+📌 [Failed Payment Process Mapping & Automation Strategy](https://github.com/shayisthaabdulla/Failed_Payment_Process_Mapping_Automation_Strategy)
+Streamlined failed payment handling in Dynamics 365 by automating tasks and emails for order status changes—saving 150+ hours yearly and reducing manual handoffs.
 
 
 ## 🛠️ Tools & Technologies
