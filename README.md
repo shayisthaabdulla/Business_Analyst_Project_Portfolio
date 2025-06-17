@@ -12,20 +12,22 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
   Automated closure of Dynamics 365 CRM entities and enhanced communication with the Media team for agent termination
   
 📌 [Automated Report Card Generation Using Multi-Source Integration](https://github.com/shayisthaabdulla/CRM_Automated_Report_Card_Generation) 
-  Automated field-level report card generation in Dynamics 365 CRM by integrating data from CRM, Reviews, and TSEE. Eliminated 40 minutes of manual work per report and boosted accuracy using custom-built AI tools.  
+  Automated field-level report card generation in Dynamics 365 CRM by integrating data from CRM, Reviews, and TSEE. Eliminated 40 minutes of manual work per report and boosted   accuracy using custom-built AI tools.  
 
 📌 [CRM Enhancement for Field Automation and Renwal Logic](https://github.com/shayisthaabdulla/CRM_Enhancement_Field_Automation) 
   Enhanced CRM processes in Dynamics 365 by automating field updates, streamlining renewals, and sending real-time task/email alerts—improving accuracy and saving manual effort.
 
-📌 [SEM Enrollment Process Optimization Dynamics 365](README.md)
-  Optimized automated transfer of Paid Search orders from multi-vendor platform to Dynamics 365 CRM by enforcing data formatting, automating field updates, and removing unnecessary fields — reducing manual rework & improving   data accuracy.
+📌 [SEM Enrollment Process Optimization Dynamics 365](https://github.com/shayisthaabdulla/SEM_Enrollment_Process_Optimization_Dynamics365)
+  Optimized automated transfer of Paid Search orders from multi-vendor platform to Dynamics 365 CRM by enforcing data formatting, automating field updates, and removing unnecessary   fields — reducing manual rework & improving   data accuracy.
 
- 📌 [CMS Reports](README.md)
+📌 [Prospect Tracker Dynamics 365](https://github.com/shayisthaabdulla/Prospect_Tracker_Dynamics365) CRM enhancement to automate and streamline prospect tracking for non-enrolled     agents by program in Dynamics 365 CRM, improving follow-up management and engagement visibility through automation and custom reporting.
+
+📌 [CMS Reports](https://github.com/shayisthaabdulla/CMS_Reports)
   Introduced role-specific real-time reports to the CMS platform, saving 100+ hours/year across content and AE teams by automating tracking for agent writing status, content workflows, and publishing metrics.
 
-📌 [Agent Snapshot in CMS (CRM+CMS Integration](README.md)
+📌 [Agent Snapshot in CMS (CRM+CMS Integration](https://github.com/shayisthaabdulla/CMS_Agent_Snapshot)
   Integrated CRM data into CMS calendar view to centralize agent info, reduce system switching, and enable personalized content creation.
 
-📌 [Web Content Automation](README.md)
-  Transformed manual content creation into a fully automated workflow using agent-submitted questionnaires, AI-generated drafts, and email-triggered reviews. Reduced admin overhead, streamlined approvals, and improved       content quality across CRM and CMS platforms.
+📌 [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation-Dynamics365-CMS-Workflow-)
+  Transformed manual content creation into a fully automated workflow using agent-submitted questionnaires, AI-generated drafts, and email-triggered reviews. Reduced admin overhead, streamlined approvals, and improved content quality across CRM and CMS platforms.
 
