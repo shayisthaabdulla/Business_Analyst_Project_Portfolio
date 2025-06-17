@@ -30,6 +30,9 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 📌 [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation-Dynamics365-CMS-Workflow-)
   Transformed manual content creation into a fully automated workflow using agent-submitted questionnaires, AI-generated drafts, and email-triggered reviews. Reduced admin overhead, streamlined approvals, and improved content quality across CRM and CMS platforms.
 
+📌 [Property Management Platform Upgrade](https://github.com/shayisthaabdulla/Property_Management_Platform_Update)
+  Led enhancements for renter onboarding, rent payments, and maintenance tracking. Optimized workflows and automated processes using Agile practices to improve operational efficiency.
+
 ## 🛠️ Tools & Technologies
 
 - **CRM Platforms:** Microsoft Dynamics 365 CRM
