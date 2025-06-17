@@ -38,6 +38,9 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 
 📌 [CRM & Third-Party Integration Planning](https://github.com/shayisthaabdulla/CRM_ThirdParty_Integration_Planning/blob/main/README.md)
   Led seamless integration planning between CRM and third-party tools to automate data transfer, improve accuracy, and reduce manual effort.
+  
+📌 [Dynamics 365 Sales Process Automation](https://github.com/shayisthaabdulla/Dynamics365_Sales_Process_Automation/blob/main/README.md)
+Automated B2B sales workflows in Dynamics 365—order creation, renewals, onboarding emails, and data validations—to improve accuracy and reduce manual tasks.
 
 
 
