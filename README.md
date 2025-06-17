@@ -22,7 +22,7 @@ Automated field-level report card generation in Dynamics 365 CRM by integrating 
 
 - [CMS Reports](README.md)
   Introduced role-specific real-time reports to the CMS platform, saving 100+ hours/year across content and AE teams by automating tracking for agent writing status, content workflows, and publishing metrics.
--
--
--
+
+- [Agent Snapshot in CMS (CRM+CMS Integration](README.md)
+  Integrated CRM data into CMS calendar view to centralize agent info, reduce system switching, and enable personalized content creation.
 
