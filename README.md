@@ -40,11 +40,13 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
   Led seamless integration planning between CRM and third-party tools to automate data transfer, improve accuracy, and reduce manual effort.
   
 📌 [Dynamics 365 Sales Process Automation](https://github.com/shayisthaabdulla/Dynamics365_Sales_Process_Automation/blob/main/README.md)
-Automated B2B sales workflows in Dynamics 365—order creation, renewals, onboarding emails, and data validations—to improve accuracy and reduce manual tasks.
+  Automated B2B sales workflows in Dynamics 365—order creation, renewals, onboarding emails, and data validations—to improve accuracy and reduce manual tasks.
 
 📌 [Failed Payment Process Mapping & Automation Strategy](https://github.com/shayisthaabdulla/Failed_Payment_Process_Mapping_Automation_Strategy)
-Streamlined failed payment handling in Dynamics 365 by automating tasks and emails for order status changes—saving 150+ hours yearly and reducing manual handoffs.
+  Streamlined failed payment handling in Dynamics 365 by automating tasks and emails for order status changes—saving 150+ hours yearly and reducing manual handoffs.
 
+📌 [Agent Portal Redesign for Insurance Client](https://github.com/shayisthaabdulla/Agent_Portal_Redesign)
+  Improved agent experience by redesigning a web portal for better visibility, resource access, and order tracking—reducing support tickets and improving engagement.
 
 ## 🛠️ Tools & Technologies
 
