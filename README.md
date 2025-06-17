@@ -36,6 +36,10 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 📌 [Income & Expense Tracking Module](https://github.com/shayisthaabdulla/Income_Expenses_Tracking/blob/main/README.md)
   Designed and implemented a custom module to streamline financial tracking and reporting for property managers, improving accuracy and visibility.
 
+📌 [CRM & Third-Party Integration Planning](https://github.com/shayisthaabdulla/CRM_ThirdParty_Integration_Planning/blob/main/README.md)
+  Led seamless integration planning between CRM and third-party tools to automate data transfer, improve accuracy, and reduce manual effort.
+
+
 
 
 ## 🛠️ Tools & Technologies
