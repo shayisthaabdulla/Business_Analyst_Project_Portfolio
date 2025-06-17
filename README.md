@@ -1,2 +1,18 @@
-# Business_Analyst_Project_Portfolio
-Business Analyst portfolio showcasing real-world projects in CRM automation, AI integration, reporting, platform migration, and process optimization across Dynamics 365, Workday, Salesforce, and CMS systems. Projects span PropTech, Insurance, Digital Marketing, and B2B SaaS industries.
+# Business Analyst Project Portfolio
+
+Hi, I'm Shayistha Abdulla — Microsoft Dynamics 365 certified Business Analyst with 9+ years of experience driving digital transformation, CRM enhancements, and process automation across multiple industries.
+
+## Why This Portfolio Matters
+
+This portfolio showcases real-world projects I’ve led as a Business Analyst, highlighting my expertise in stakeholder collaboration, workflow optimization, and technical systems like Dynamics 365, Workday, and Salesforce. These projects reflect my ability to deliver solutions that save time, improve accuracy, and drive business value.
+
+## Projects
+-
+-
+-
+-
+-
+-
+-
+-
+
