@@ -17,7 +17,8 @@ Automated field-level report card generation in Dynamics 365 CRM by integrating 
 - [CRM Enhancement for Field Automation and Renwal Logic](https://github.com/shayisthaabdulla/CRM_Enhancement_Field_Automation) 
   Enhanced CRM processes in Dynamics 365 by automating field updates, streamlining renewals, and sending real-time task/email alerts—improving accuracy and saving manual effort.
 
--
+- [SEM Enrollment Process Optimization Dynamics 365](README.md)
+  Optimized automated transfer of Paid Search orders from multi-vendor platform to Dynamics 365 CRM by enforcing data formatting, automating field updates, and removing unnecessary fields — reducing manual rework & improving   data accuracy.
 -
 -
 -
