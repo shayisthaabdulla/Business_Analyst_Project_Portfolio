@@ -8,7 +8,7 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
 
 ## Projects
 
-- [Agent Termination Workflow Automation](.crm_agent_termination_workflow)
+- [Agent Termination Workflow Automation](https://github.com/shayisthaabdulla/crm_agent_termination_workflow/blob/main/README.md)
   Automated closure of Dynamics 365 CRM entities and enhanced communication with the Media team for agent termination
 
 -
