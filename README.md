@@ -1,4 +1,4 @@
-## 👩‍💻  Welcome to my Business Analyst project portfolio!  
+## 👩‍💻  Welcome to my Business Analyst Project Portfolio!  
 I'm Shayistha Abdulla, a Microsoft Certified Dynamics 365 professional with 9+ years of experience in CRM, Digital Marketing, PropTech, and IT Consulting. This repository highlights my real-world contributions to CRM automation, AI integrations, reporting, and data-driven workflow optimization.
 
 ## 💡 Why This Portfolio Matters
