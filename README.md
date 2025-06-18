@@ -96,6 +96,6 @@ This portfolio showcases real-world projects I’ve led as a Business Analyst, h
   Monitored solution performance post-launch and gathered feedback to support iterative improvement.
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/shayisthaa/)
+💼 [LinkedIn](https://www.linkedin.com/in/shayisthaa/)
 
 
