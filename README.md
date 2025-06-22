@@ -70,7 +70,7 @@ My work spans automation, reporting, and AI-driven enhancements — all rooted i
 ### 📌 [CRM & Third-Party Integration Planning](https://github.com/shayisthaabdulla/CRM_ThirdParty_Integration_Planning/blob/main/README.md) 
 **Overview**: Facilitated seamless CRM integration with third-party vendor tools.  
 **Problem Solved**: Data silos and duplicate entry issues.  
-**Tools & Technologies**: Dynamics 365
+**Tools & Technologies**: Dynamics 365.
 **Outcome**: Improved automation and reduced human error.
 
 ### 📌 [Dynamics 365 Sales Process Automation](https://github.com/shayisthaabdulla/Dynamics365_Sales_Process_Automation/blob/main/README.md) 
