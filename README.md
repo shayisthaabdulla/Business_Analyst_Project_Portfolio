@@ -1,102 +1,119 @@
-## 👩‍💻  Welcome to my Business Analyst Project Portfolio!  
-I'm Shayistha Abdulla, a Microsoft Certified Dynamics 365 professional with 9+ years of experience in CRM, Digital Marketing, PropTech, and IT Consulting. This repository highlights my real-world contributions to CRM automation, AI integrations, reporting, and data-driven workflow optimization.
+# 👩‍💻 Business Analyst Project Portfolio
 
-## 💡 Why This Portfolio Matters
+## 💡 Why This Portfolio Matters  
+This portfolio showcases real-world Business Analyst projects I’ve led across CRM, CMS, Digital Marketing, and PropTech platforms. Each project highlights my ability to improve data quality, streamline operations, and implement scalable, tech-enabled solutions using Microsoft Dynamics 365 and cross-platform integrations.
 
-This portfolio showcases real-world projects I’ve led as a Business Analyst, highlighting my expertise in stakeholder collaboration, workflow optimization, and technical systems like Dynamics 365, Workday, and Salesforce. These projects reflect my ability to deliver solutions that save time, improve accuracy, and drive business value.
+My work spans automation, reporting, and AI-driven enhancements — all rooted in stakeholder collaboration and business value delivery.
 
-## 📁 Projects
+## 📁 Featured Projects
 
-### 📌 [Agent Termination Workflow Automation](https://github.com/shayisthaabdulla/crm_agent_termination_workflow)
-Automated closure of Dynamics 365 CRM entities and enhanced communication with the Media team for agent termination
-  
-### 📌 [Automated Report Card Generation Using Multi-Source Integration](https://github.com/shayisthaabdulla/CRM_Automated_Report_Card_Generation) 
-Automated field-level report card generation in Dynamics 365 CRM by integrating data from CRM, Reviews, and TSEE. Eliminated 40 minutes of manual work per report and boosted   accuracy using custom-built AI tools.  
+### 📌 [Agent Termination Workflow Automation](https://github.com/shayisthaabdulla/crm_agent_termination_workflow) 
+**Overview**: Automated the agent termination process within Dynamics 365 CRM.  
+**Problem Solved**: Eliminated manual handoffs and ensured clean deactivation of associated entities.  
+**Tools & Technologies**: Dynamics 365 CRM, Workflow Automation  
+**Outcome**: Saved 48+ hours annually and improved compliance.
 
-### 📌 [CRM Enhancement for Field Automation and Renwal Logic](https://github.com/shayisthaabdulla/CRM_Enhancement_Field_Automation) 
-Enhanced CRM processes in Dynamics 365 by automating field updates, streamlining renewals, and sending real-time task/email alerts—improving accuracy and saving manual effort.
+### 📌 [Automated Report Card Generation](https://github.com/shayisthaabdulla/CRM_Automated_Report_Card_Generation)  
+**Overview**: Streamlined CRM-based report card creation using data from CRM, Reviews, and TSEE.  
+**Problem Solved**: Manual entry of 15 fields per report.  
+**Tools & Technologies**: Dynamics 365 CRM, GPT/AI, Excel  
+**Outcome**: Eliminated 40 minutes of manual work per report, improved accuracy.
 
-### 📌 [SEM Enrollment Process Optimization Dynamics 365](https://github.com/shayisthaabdulla/SEM_Enrollment_Process_Optimization_Dynamics365)
-Optimized automated transfer of Paid Search orders from multi-vendor platform to Dynamics 365 CRM by enforcing data formatting, automating field updates, and removing unnecessary   fields — reducing manual rework & improving   data accuracy.
+### 📌 [CRM Enhancement – Field Automation & Renewal Logic](https://github.com/shayisthaabdulla/CRM_Enhancement_Field_Automation) 
+**Overview**: Enhanced CRM workflows by automating field updates and implementing logic for renewals.  
+**Problem Solved**: Manual field population and inconsistent renewal tracking.  
+**Tools & Technologies**: Dynamics 365 CRM, Automated Workflows  
+**Outcome**: Increased data accuracy, reduced manual steps, and improved visibility for account teams.
 
-### 📌 [Prospect Tracker Dynamics 365](https://github.com/shayisthaabdulla/Prospect_Tracker_Dynamics365) 
-CRM enhancement to automate and streamline prospect tracking for non-enrolled     agents by program in Dynamics 365 CRM, improving follow-up management and engagement visibility through automation and custom reporting.
+### 📌 [SEM Enrollment Process Optimization](https://github.com/shayisthaabdulla/SEM_Enrollment_Process_Optimization_Dynamics365)
+**Overview**: Optimized SEM (Paid Search) order data flowing into Dynamics 365 CRM.  
+**Problem Solved**: Inconsistent formatting, unnecessary fields, and manual data cleanup.  
+**Tools & Technologies**: Dynamics 365 CRM 
+**Outcome**: Improved data quality and reduced rework.
 
-### 📌 [CMS Reports](https://github.com/shayisthaabdulla/CMS_Reports)
-Introduced role-specific real-time reports to the CMS platform, saving 100+ hours/year across content and AE teams by automating tracking for agent writing status, content workflows, and publishing metrics.
+### 📌 [Prospect Tracker Automation](https://github.com/shayisthaabdulla/Prospect_Tracker_Dynamics365)
+**Overview**: Built custom CRM views for tracking non-enrolled prospects by program.  
+**Problem Solved**: No visibility into active follow-ups.  
+**Tools & Technologies**: Dynamics 365 CRM  
+**Outcome**: Improved engagement tracking and reporting.
 
-### 📌 [Agent Snapshot in CMS (CRM+CMS Integration](https://github.com/shayisthaabdulla/CMS_Agent_Snapshot)
-Integrated CRM data into CMS calendar view to centralize agent info, reduce system switching, and enable personalized content creation.
+### 📌 [CMS Reporting Enhancements](https://github.com/shayisthaabdulla/CMS_Reports)
+**Overview**: Designed real-time reports for agent content workflows.  
+**Problem Solved**: Manual tracking and lack of visibility for content teams.  
+**Tools & Technologies**: CMS Platform, Excel  
+**Outcome**: Saved 100+ hours annually across departments.
+
+### 📌 [CRM + CMS Calendar Integration](https://github.com/shayisthaabdulla/CMS_Agent_Snapshot) 
+**Overview**: Integrated CRM agent data into CMS agent calendar.  
+**Problem Solved**: Team switching between platforms and lack of personalization.  
+**Tools & Technologies**: Dynamics 365 CRM, CMS  
+**Outcome**: Centralized agent view for better content creation.
 
 ### 📌 [Web Content Automation](https://github.com/shayisthaabdulla/Web_Content_Automation-Dynamics365-CMS-Workflow-)
-Transformed manual content creation into a fully automated workflow using agent-submitted questionnaires, AI-generated drafts, and email-triggered reviews. Reduced admin overhead, streamlined approvals, and improved content quality across CRM and CMS platforms.
+**Overview**: Built a GPT-powered content automation workflow triggered by CSQ inputs.  
+**Problem Solved**: Manual post-writing for agent web content.  
+**Tools & Technologies**: Dynamics 365, CMS, GPT-based tools  
+**Outcome**: Faster approvals, reduced manual effort, and higher content quality.
 
-### 📌 [Property Management Platform Upgrade](https://github.com/shayisthaabdulla/Property_Management_Platform_Update)
-Led enhancements for renter onboarding, rent payments, and maintenance tracking. Optimized workflows and automated processes using Agile practices to improve operational efficiency.
+### 📌 [Property Management Platform Upgrade](https://github.com/shayisthaabdulla/Property_Management_Platform_Update)  
+**Overview**: Improved onboarding, rent payment, and maintenance features.  
+**Problem Solved**: Inefficient legacy platform and support delays.  
+**Tools & Technologies**: Agile, Process Mapping, Dynamics 365.
+**Outcome**: Enhanced user experience and streamlined workflows.
 
-### 📌 [Income & Expense Tracking Module](https://github.com/shayisthaabdulla/Income_Expenses_Tracking/blob/main/README.md)
-Designed and implemented a custom module to streamline financial tracking and reporting for property managers, improving accuracy and visibility.
+### 📌 [Income & Expense Tracking Module](https://github.com/shayisthaabdulla/Income_Expenses_Tracking/blob/main/README.md)  
+**Overview**: Designed custom module for property financial management.  
+**Problem Solved**: Lack of visibility and manual spreadsheet tracking.  
+**Tools & Technologies**: Excel  
+**Outcome**: Improved accuracy and faster reporting.
 
-### 📌 [CRM & Third-Party Integration Planning](https://github.com/shayisthaabdulla/CRM_ThirdParty_Integration_Planning/blob/main/README.md)
-Led seamless integration planning between CRM and third-party tools to automate data transfer, improve accuracy, and reduce manual effort.
-  
-### 📌 [Dynamics 365 Sales Process Automation](https://github.com/shayisthaabdulla/Dynamics365_Sales_Process_Automation/blob/main/README.md)
-Automated B2B sales workflows in Dynamics 365—order creation, renewals, onboarding emails, and data validations—to improve accuracy and reduce manual tasks.
+### 📌 [CRM & Third-Party Integration Planning](https://github.com/shayisthaabdulla/CRM_ThirdParty_Integration_Planning/blob/main/README.md) 
+**Overview**: Facilitated seamless CRM integration with third-party vendor tools.  
+**Problem Solved**: Data silos and duplicate entry issues.  
+**Tools & Technologies**: Dynamics 365
+**Outcome**: Improved automation and reduced human error.
 
-### 📌 [Failed Payment Process Mapping & Automation Strategy](https://github.com/shayisthaabdulla/Failed_Payment_Process_Mapping_Automation_Strategy)
-Streamlined failed payment handling in Dynamics 365 by automating tasks and emails for order status changes—saving 150+ hours yearly and reducing manual handoffs.
+### 📌 [Dynamics 365 Sales Process Automation](https://github.com/shayisthaabdulla/Dynamics365_Sales_Process_Automation/blob/main/README.md) 
+**Overview**: Automated key B2B sales workflows across onboarding and renewals.  
+**Problem Solved**: Manual steps in sales order lifecycle.  
+**Tools & Technologies**: Dynamics 365 CRM  
+**Outcome**: Reduced task load and increased process reliability.
 
-### 📌 [Agent Portal Redesign for Insurance Client](https://github.com/shayisthaabdulla/Agent_Portal_Redesign)
-Improved agent experience by redesigning a web portal for better visibility, resource access, and order tracking—reducing support tickets and improving engagement.
+### 📌 [Failed Payment Process Automation](https://github.com/shayisthaabdulla/Failed_Payment_Process_Mapping_Automation_Strategy)  
+**Overview**: Automated handling of failed orders with triggers for Finance and Media teams.  
+**Problem Solved**: Manual monitoring of status changes.  
+**Tools & Technologies**: Dynamics 365 CRM, Automated Alerts  
+**Outcome**: Saved 150+ hours annually.
 
-## 🛠️ Tools & Technologies
+### 📌 [Agent Portal Redesign](https://github.com/shayisthaabdulla/Agent_Portal_Redesign) 
+**Overview**: Redesigned insurance agent portal to improve visibility and self-service.  
+**Problem Solved**: High support requests and outdated interface.  
+**Tools & Technologies**: UX Design, CMS, CRM Integration  
+**Outcome**: Reduced support tickets and improved agent satisfaction.
 
-- **CRM Platforms:** Microsoft Dynamics 365 CRM
-- **Workflow Tools:** Microsoft Visio, Lucidchart, SharePoint
-- **Data Analysis:** SQL, Excel
-- **AI Integration:** ChatGPT-powered internal tools
-- **Project Management:** Jira, Azure Devops
-- **Communication:** Stakeholder Management, Discovery Sessions, UAT Coordination
+## 🛠 Tools & Technologies  
+- **CRM Platforms**: Microsoft Dynamics 365 CRM, CMS  
+- **Project Tools**: Azure DevOps, Jira, Microsoft Visio, SharePoint  
+- **Data & Automation**:Excel, GPT-based AI tools  
+- **Methodologies**: Agile, Scrum, UAT, Requirements Gathering
 
-## 👩‍💼 Business Analyst Strengths
+## 💪 Business Analyst Strengths  
 
-- **Requirements Gathering & Elicitation**  
-  Conducted interviews, workshops, and discovery sessions to capture and clarify business needs.
+- **Stakeholder Management**: Collaborated with cross-functional teams to align business goals with technical implementation.  
+- **Workflow Optimization**: Identified manual bottlenecks and implemented automation to streamline operations across CRM, CMS, and content pipelines.  
+- **Process Mapping & Gap Analysis**: Developed As-Is / To-Be process flows using Visio and Lucidchart to uncover inefficiencies and define future-state improvements.  
+- **Impact Analysis (Cost & Time Savings)**: Quantified business benefits through effort/time saved, improved accuracy, and reduced manual rework to support ROI-based decisions.  
+- **AI Integration & Change Management**: Enabled smooth adoption of GPT-based tools and AI-driven processes through training, documentation, and feedback cycles.  
+- **Cross-Platform Collaboration**: Connected Dynamics 365 CRM with CMS tools, APIs, and third-party platforms to ensure seamless data flow and automation.  
+- **Documentation & Specifications**: Created BRDs, FRDs, user stories, process flows, and acceptance criteria for stakeholder and development alignment.  
+- **Agile Team Collaboration**: Supported Agile delivery via sprint planning, stand-ups, backlog grooming, and retrospectives.  
+- **User-Centric Solutions**: Prioritized business pain points and translated them into scalable, intuitive workflows with measurable outcomes.
 
-- **Stakeholder Management**  
-  Collaborated with cross-functional teams including business users, developers, QA, and leadership to align on goals.
+## ✍️ About Me   
+I'm Shayistha Abdulla, a Microsoft-Certified Dynamics 365 professional with 9+ years of experience delivering business analysis, workflow automation, and cross-platform enhancements across CRM, CMS, Digital Marketing, PropTech, and IT Consulting industries.
 
-- **Process Mapping & Gap Analysis**  
-  Created As-Is / To-Be flows using MS Visio/Lucid Chart to identify process inefficiencies and recommend improvements.
+My expertise lies in translating complex business requirements into scalable solutions, driving process efficiency, and enabling data-backed decision-making through stakeholder collaboration, automation, and strategic system design.
 
-- **Impact Analysis (Cost & Time Savings)**  
-  Evaluated the business value of each solution by calculating ROI, estimating time saved, and highlighting operational cost reductions.
-
-- **Documentation & Specifications**  
-  Authored BRDs, FRDs, user stories, acceptance criteria, process flows, and use cases to guide development.
-
-- **CRM & Platform Enhancements**  
-  Led enhancements in Microsoft Dynamics 365 CRM through new fields, logic, workflows, and automation.
-
-- **Workflow Optimization**  
-  Identified manual pain points and implemented streamlined or automated processes (including AI-driven enhancements).
-
-- **Data Analysis & Validation (SQL)**  
-  Queried databases using PostgreSQL to ensure data accuracy, monitor trends, and validate business logic.
-
-- **UAT Planning & Support**  
-  Assisted QA teams, gathered feedback from stakeholders, and ensured solutions met business requirements.
-
-- **Agile & Sprint Collaboration**  
-  Participated in daily stand-ups, backlog grooming, sprint planning, and retrospectives in Agile environments.
-  
-- **Change Management & Communication**  
-  Ensured smooth transitions by preparing user guides, release notes, and conducting demo/training sessions.
-  
-- **Continuous Improvement**  
-  Monitored solution performance post-launch and gathered feedback to support iterative improvement.
-
-## 📫 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/shayisthaa/)
-
-
+## 📫 Let's Connect  
+💼 [LinkedIn](https://linkedin.com/in/shayisthaabdulla)  
+📂 [View My GitHub Portfolios](https://github.com/shayisthaabdulla)
